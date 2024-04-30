@@ -1,0 +1,15 @@
+C:\Users\IthieswaranDevadoos\OneDrive - Syncfusion\Documents\Phase-2--EB-Bill-calculation\EBillCalculation\bin\Debug\net7.0\EBillCalculation.exe
+C:\Users\IthieswaranDevadoos\OneDrive - Syncfusion\Documents\Phase-2--EB-Bill-calculation\EBillCalculation\bin\Debug\net7.0\EBillCalculation.deps.json
+C:\Users\IthieswaranDevadoos\OneDrive - Syncfusion\Documents\Phase-2--EB-Bill-calculation\EBillCalculation\bin\Debug\net7.0\EBillCalculation.runtimeconfig.json
+C:\Users\IthieswaranDevadoos\OneDrive - Syncfusion\Documents\Phase-2--EB-Bill-calculation\EBillCalculation\bin\Debug\net7.0\EBillCalculation.dll
+C:\Users\IthieswaranDevadoos\OneDrive - Syncfusion\Documents\Phase-2--EB-Bill-calculation\EBillCalculation\bin\Debug\net7.0\EBillCalculation.pdb
+C:\Users\IthieswaranDevadoos\OneDrive - Syncfusion\Documents\Phase-2--EB-Bill-calculation\EBillCalculation\obj\Debug\net7.0\EBillCalculation.csproj.AssemblyReference.cache
+C:\Users\IthieswaranDevadoos\OneDrive - Syncfusion\Documents\Phase-2--EB-Bill-calculation\EBillCalculation\obj\Debug\net7.0\EBillCalculation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IthieswaranDevadoos\OneDrive - Syncfusion\Documents\Phase-2--EB-Bill-calculation\EBillCalculation\obj\Debug\net7.0\EBillCalculation.AssemblyInfoInputs.cache
+C:\Users\IthieswaranDevadoos\OneDrive - Syncfusion\Documents\Phase-2--EB-Bill-calculation\EBillCalculation\obj\Debug\net7.0\EBillCalculation.AssemblyInfo.cs
+C:\Users\IthieswaranDevadoos\OneDrive - Syncfusion\Documents\Phase-2--EB-Bill-calculation\EBillCalculation\obj\Debug\net7.0\EBillCalculation.csproj.CoreCompileInputs.cache
+C:\Users\IthieswaranDevadoos\OneDrive - Syncfusion\Documents\Phase-2--EB-Bill-calculation\EBillCalculation\obj\Debug\net7.0\EBillCalculation.dll
+C:\Users\IthieswaranDevadoos\OneDrive - Syncfusion\Documents\Phase-2--EB-Bill-calculation\EBillCalculation\obj\Debug\net7.0\refint\EBillCalculation.dll
+C:\Users\IthieswaranDevadoos\OneDrive - Syncfusion\Documents\Phase-2--EB-Bill-calculation\EBillCalculation\obj\Debug\net7.0\EBillCalculation.pdb
+C:\Users\IthieswaranDevadoos\OneDrive - Syncfusion\Documents\Phase-2--EB-Bill-calculation\EBillCalculation\obj\Debug\net7.0\EBillCalculation.genruntimeconfig.cache
+C:\Users\IthieswaranDevadoos\OneDrive - Syncfusion\Documents\Phase-2--EB-Bill-calculation\EBillCalculation\obj\Debug\net7.0\ref\EBillCalculation.dll

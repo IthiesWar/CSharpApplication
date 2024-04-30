@@ -1,0 +1,15 @@
+C:\Users\IthieswaranDevadoos\OneDrive - Syncfusion\Documents\Phase-2-Employee payroll management\EmployeePayRoll\bin\Debug\net7.0\EmployeePayRoll.exe
+C:\Users\IthieswaranDevadoos\OneDrive - Syncfusion\Documents\Phase-2-Employee payroll management\EmployeePayRoll\bin\Debug\net7.0\EmployeePayRoll.deps.json
+C:\Users\IthieswaranDevadoos\OneDrive - Syncfusion\Documents\Phase-2-Employee payroll management\EmployeePayRoll\bin\Debug\net7.0\EmployeePayRoll.runtimeconfig.json
+C:\Users\IthieswaranDevadoos\OneDrive - Syncfusion\Documents\Phase-2-Employee payroll management\EmployeePayRoll\bin\Debug\net7.0\EmployeePayRoll.dll
+C:\Users\IthieswaranDevadoos\OneDrive - Syncfusion\Documents\Phase-2-Employee payroll management\EmployeePayRoll\bin\Debug\net7.0\EmployeePayRoll.pdb
+C:\Users\IthieswaranDevadoos\OneDrive - Syncfusion\Documents\Phase-2-Employee payroll management\EmployeePayRoll\obj\Debug\net7.0\EmployeePayRoll.csproj.AssemblyReference.cache
+C:\Users\IthieswaranDevadoos\OneDrive - Syncfusion\Documents\Phase-2-Employee payroll management\EmployeePayRoll\obj\Debug\net7.0\EmployeePayRoll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IthieswaranDevadoos\OneDrive - Syncfusion\Documents\Phase-2-Employee payroll management\EmployeePayRoll\obj\Debug\net7.0\EmployeePayRoll.AssemblyInfoInputs.cache
+C:\Users\IthieswaranDevadoos\OneDrive - Syncfusion\Documents\Phase-2-Employee payroll management\EmployeePayRoll\obj\Debug\net7.0\EmployeePayRoll.AssemblyInfo.cs
+C:\Users\IthieswaranDevadoos\OneDrive - Syncfusion\Documents\Phase-2-Employee payroll management\EmployeePayRoll\obj\Debug\net7.0\EmployeePayRoll.csproj.CoreCompileInputs.cache
+C:\Users\IthieswaranDevadoos\OneDrive - Syncfusion\Documents\Phase-2-Employee payroll management\EmployeePayRoll\obj\Debug\net7.0\EmployeePayRoll.dll
+C:\Users\IthieswaranDevadoos\OneDrive - Syncfusion\Documents\Phase-2-Employee payroll management\EmployeePayRoll\obj\Debug\net7.0\refint\EmployeePayRoll.dll
+C:\Users\IthieswaranDevadoos\OneDrive - Syncfusion\Documents\Phase-2-Employee payroll management\EmployeePayRoll\obj\Debug\net7.0\EmployeePayRoll.pdb
+C:\Users\IthieswaranDevadoos\OneDrive - Syncfusion\Documents\Phase-2-Employee payroll management\EmployeePayRoll\obj\Debug\net7.0\EmployeePayRoll.genruntimeconfig.cache
+C:\Users\IthieswaranDevadoos\OneDrive - Syncfusion\Documents\Phase-2-Employee payroll management\EmployeePayRoll\obj\Debug\net7.0\ref\EmployeePayRoll.dll
